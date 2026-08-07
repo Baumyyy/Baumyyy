@@ -9,9 +9,9 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Baumyyy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
 ##
-<p align="left">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=3134eorm2rg4kindk7legvwus7sm&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3134eorm2rg4kindk7legvwus7sm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color=cb1a1a">
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3134eorm2rg4kindk7legvwus7sm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=00ff88&bar_color_cover=false">
   </a>
 </p>
 
