@@ -1,5 +1,6 @@
 
-<img width="1849" height="512" alt="grok-image-fda4b5a1-6eb3-4f97-97b0-09e3e4b39ebb (1)" src="https://github.com/user-attachments/assets/269cc297-ce4d-4dda-a453-e047741d071c" />
+<img width="1280" height="400" alt="banner-green-slab-1280x400" src="https://github.com/user-attachments/assets/c4addbf4-1490-4338-8362-4e7af0bd4aed" />
+
 
 ##
 
