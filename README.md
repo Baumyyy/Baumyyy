@@ -35,7 +35,7 @@ See more of my journey at www.baumgertner.fi
   GitHub Stats
 </h3>
 <!-- public github-readme-stats instance only counts public activity; self-host with a token to include private commits -->
-<p align="center">
+<p align="left">
   <a href="https://github.com/Baumyyy">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Baumyyy&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=C9D1D9"/>
   </a>
