@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-See more of my journey at www.baumgertner.fi
+See more of my journey at https://baumgertner.fi/
 </p>
 
 <img src="assets/divider.svg" width="100%" alt="" />
