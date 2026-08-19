@@ -38,8 +38,6 @@ See more of my journey at https://baumgertner.fi/
 <p align="left">
   <a href="https://github.com/Baumyyy">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Baumyyy&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=C9D1D9"/>
-  </a>
-  <!-- streak-stats runs on a Heroku instance that's sometimes down; if the image breaks, drop this block or self-host: https://github.com/DenverCoder1/github-readme-streak-stats -->
   <img height="180em" src="https://streak-stats.demolab.com/?user=Baumyyy&theme=dark&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" alt="GitHub Streak" />
 </p>
 <p align="center">
